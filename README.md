@@ -127,4 +127,3 @@ Intelligent legal guidance platform helping Moroccan citizens navigate legal pro
 ## “Building intelligent systems that create real impact.”
 
 </div>
-```
