@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marouane_Amguine-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marouane-amguine-54632b366)
 
-[![Email](https://img.shields.io/badge/Email-amguinemarouane@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouane.amguine@gmail.com)
+[![Email](https://img.shields.io/badge/Email-marouane.amguine@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouane.amguine@gmail.com)
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Amg-Marouane&style=for-the-badge&color=6366f1)](https://github.com/Amg-Marouane)
