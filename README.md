@@ -20,7 +20,7 @@
 
 # About Me
 
-Computer Engineering student at **ENSMR (Mines Rabat)** passionate about:
+Computer Engineering student passionate about:
 
 - Artificial Intelligence
 - Machine Learning
