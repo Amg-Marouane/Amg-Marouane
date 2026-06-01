@@ -2,9 +2,9 @@
 
 # Marouane Amg
 
-**Full-Stack Developer · ML Engineer · Health Tech Enthusiast**
+**AI & Data Engineer · Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/marouane-amguine-54632b366)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:amguinemarouane@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Amg-Marouane&style=flat-square&color=6366f1)](https://github.com/Amg-Marouane)
 
