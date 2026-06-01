@@ -11,7 +11,6 @@
 
 [![Email](https://img.shields.io/badge/Email-amguinemarouane@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amguinemarouane@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/Amg-Marouane?style=for-the-badge)](https://github.com/Amg-Marouane)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Amg-Marouane&style=for-the-badge&color=6366f1)](https://github.com/Amg-Marouane)
 
